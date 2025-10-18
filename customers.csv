@@ -1,0 +1,21 @@
+customer_id,full_name,region,age,occupation
+C001,Kojo Asare,Volta,54,Student
+C002,Kojo Asare,Ashanti,52,Trader
+C003,Afia Darko,Volta,52,Trader
+C004,Kojo Darko,Bono,56,Trader
+C005,Yaw Mensah,Ashanti,31,Farmer
+C006,Adjoa Mensah,Ashanti,22,Trader
+C007,Adjoa Mensah,Northern,20,Engineer
+C008,Afia Boateng,Ashanti,52,Banker
+C009,Esi Mensah,Greater Accra,59,Teacher
+C010,Afia Mensah,Western,29,Trader
+C011,Kofi Asare,Western,48,Student
+C012,Afia Darko,Volta,32,Trader
+C013,Kojo Asare,Bono,31,Student
+C014,Kofi Darko,Ashanti,50,Engineer
+C015,Adjoa Darko,Greater Accra,21,Student
+C016,Yaw Boateng,Volta,54,Teacher
+C017,Yaw Asare,Northern,42,Banker
+C018,Adjoa Mensah,Volta,36,Student
+C019,Yaw Boateng,Volta,45,Student
+C020,Afia Darko,Ashanti,27,Banker

@@ -1,0 +1,41 @@
+trans_id,customer_id,date,category,amount,payment_method
+T001,C004,"Nov 05, 2024",Groceries,171,Card
+T002,C010,2025-06-25,Entertainment,243,Cash
+T003,C005,21/07/2025,Transport,54,Card
+T004,C009,2024-04-16,Healthcare,78,Cash
+T005,C003,2024-09-27,Entertainment,214,Card
+T006,C017,"Apr 19, 2024",Healthcare,471,Mobile Money
+T007,C003,2025-07-20,Other,388,Card
+T008,C016,05/10/2024,Groceries,185,Cash
+T009,C004,"Aug 03, 2024",Other,414,Card
+T010,C018,2024-12-17,Healthcare,370,Card
+T011,C017,"Sep 27, 2024",Healthcare,391,Card
+T012,C007,15/05/2025,Utilities,194,Mobile Money
+T013,C005,2024-02-22,Utilities,376,Card
+T014,C012,09/03/2025,Other,266,Mobile Money
+T015,C017,2024-02-15,Education,350,Mobile Money
+T016,C013,2024-12-07,Other,181,Card
+T017,C003,2024-09-25,Utilities,341,Card
+T018,C009,"Mar 28, 2025",Healthcare,119,Card
+T019,C017,"Mar 13, 2025",Transport,301,Cash
+T020,C017,2024-01-10,Other,464,Card
+T021,C020,"Mar 18, 2024",Healthcare,324,Mobile Money
+T022,C016,"Jun 01, 2024",Transport,494,Card
+T023,C013,06/02/2024,Transport,413,Cash
+T024,C019,2025-07-19,Utilities,231,Card
+T025,C017,2025-03-16,Other,216,Cash
+T026,C004,12/02/2024,Entertainment,140,Cash
+T027,C012,2025-01-08,Groceries,251,Card
+T028,C009,2025-01-01,Utilities,395,Mobile Money
+T029,C019,"Sep 12, 2024",Utilities,68,Cash
+T030,C012,15/04/2024,Entertainment,88,Card
+T031,C009,27/07/2025,Groceries,175,Card
+T032,C007,2024-06-07,Healthcare,222,Mobile Money
+T033,C014,2024-06-15,Education,190,Cash
+T034,C020,2025-02-26,Other,291,Cash
+T035,C019,"Jul 02, 2024",Education,269,Card
+T036,C015,06/12/2024,Healthcare,175,Card
+T037,C016,11/09/2024,Utilities,107,Mobile Money
+T038,C005,"Jun 12, 2024",Groceries,197,Mobile Money
+T039,C003,20/04/2024,Utilities,366,Cash
+T040,C012,09/02/2024,Transport,432,Cash
