@@ -1,0 +1,41 @@
+trans_id,customer_id,date,category,amount,payment_method
+T001,C004,11/5/2024,Groceries,$171.00,Card
+T002,C010,6/25/2025,Entertainment,$243.00,Cash
+T003,C005,21/07/2025,Transport,$54.00,Card
+T004,C009,4/16/2024,Healthcare,$78.00,Cash
+T005,C003,9/27/2024,Entertainment,$214.00,Card
+T006,C017,4/19/2024,Healthcare,$471.00,Mobile Money
+T007,C003,7/20/2025,Other,$388.00,Card
+T008,C016,5/10/2024,Groceries,$185.00,Cash
+T009,C004,8/3/2024,Other,$414.00,Card
+T010,C018,12/17/2024,Healthcare,$370.00,Card
+T011,C017,9/27/2024,Healthcare,$391.00,Card
+T012,C007,15/05/2025,Utilities,$194.00,Mobile Money
+T013,C005,2/22/2024,Utilities,$376.00,Card
+T014,C012,9/3/2025,Other,$266.00,Mobile Money
+T015,C017,2/15/2024,Education,$350.00,Mobile Money
+T016,C013,12/7/2024,Other,$181.00,Card
+T017,C003,9/25/2024,Utilities,$341.00,Card
+T018,C009,3/28/2025,Healthcare,$119.00,Card
+T019,C017,3/13/2025,Transport,$301.00,Cash
+T020,C017,1/10/2024,Other,$464.00,Card
+T021,C020,3/18/2024,Healthcare,$324.00,Mobile Money
+T022,C016,6/1/2024,Transport,$494.00,Card
+T023,C013,6/2/2024,Transport,$413.00,Cash
+T024,C019,7/19/2025,Utilities,$231.00,Card
+T025,C017,3/16/2025,Other,$216.00,Cash
+T026,C004,12/2/2024,Entertainment,$140.00,Cash
+T027,C012,1/8/2025,Groceries,$251.00,Card
+T028,C009,1/1/2025,Utilities,$395.00,Mobile Money
+T029,C019,9/12/2024,Utilities,$68.00,Cash
+T030,C012,15/04/2024,Entertainment,$88.00,Card
+T031,C009,27/07/2025,Groceries,$175.00,Card
+T032,C007,6/7/2024,Healthcare,$222.00,Mobile Money
+T033,C014,6/15/2024,Education,$190.00,Cash
+T034,C020,2/26/2025,Other,$291.00,Cash
+T035,C019,7/2/2024,Education,$269.00,Card
+T036,C015,6/12/2024,Healthcare,$175.00,Card
+T037,C016,11/9/2024,Utilities,$107.00,Mobile Money
+T038,C005,6/12/2024,Groceries,$197.00,Mobile Money
+T039,C003,20/04/2024,Utilities,$366.00,Cash
+T040,C012,9/2/2024,Transport,$432.00,Cash

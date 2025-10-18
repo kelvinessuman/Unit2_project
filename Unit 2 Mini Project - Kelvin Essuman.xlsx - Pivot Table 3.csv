@@ -1,0 +1,12 @@
+category,date of transaction,SUM of transaction_amount
+,,$0.00
+ Total,,$0.00
+Education Total,,$809.00
+Entertainment Total,,$685.00
+Groceries Total,,$979.00
+Health care Total,,$471.00
+Healthcare Total,,"$1,679.00"
+Other Total,,"$2,220.00"
+Transport Total,,"$1,694.00"
+Utilities Total,,"$2,078.00"
+Grand Total,,"$10,615.00"
